@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-azure-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nod index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dgreener97/nodejs-azure-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dgreener97/nodejs-azure-app/issues"
+  },
+  "homepage": "https://github.com/Dgreener97/nodejs-azure-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
