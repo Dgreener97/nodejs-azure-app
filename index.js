@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3000;
 
 // Default route
 app.get("/", (req, res) => {
-  res.send("Hello from Node.js on Azure App Service!");
+  res.send("Hello from Node.js on Azure App Service Connected with GitHub Actions!");
 });
 
 // Start server
